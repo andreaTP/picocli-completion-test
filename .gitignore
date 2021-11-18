@@ -1,3 +1,7 @@
 target
 bin
 .vscode
+.settings
+.factorypath
+.classpath
+
